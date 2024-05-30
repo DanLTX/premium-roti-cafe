@@ -1,0 +1,581 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+GroupProjectNew
+</name>
+</assembly>
+<members>
+<member name="T:GroupProjectNew.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources._26789909974_9c0d37e46e_b">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.chocolate_waffles_with_peanut_butter_sauce">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.download__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.download__10_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.download__11_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.download__12_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.download__13_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.download__14_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.download__15_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.download__16_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.download__17_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.download__18_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.download__19_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.download__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.download__20_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.download__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.download__4_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.download__5_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.download__6_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.download__7_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.download__8_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.download__9_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.FP_Nasi_lemak_with_all_its_trimmings">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.friedkwayteow_carousel1_640x640">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.images__5_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.images__5_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.images__6_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.images__7_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.IMG_3519_picnik">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.mybizcart_2020_03_30812">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.nasi_goreng_featured">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.Penang_Assam_Laksa">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.photo_6133907576312676186_y">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.photo_6133907576312676187_x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.photo_6133907576312676189_x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.photo_6133907576312676190_x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.photo_6133907576312676191_x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.photo_6133907576312676192_y">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.photo_6133907576312676205_y">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.photo_6133907576312676292_y">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.photo_6133907576312676297_y">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.photo_6133907576312676298_x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.photo_6133907576312676299_x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.photo_6133907576312676305_y">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.Untitled_design">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.Untitled_design__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.Untitled_design__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.Untitled_design__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.Untitled_design__4_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.Untitled_design__5_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProjectNew.My.Resources.Resources.Untitled_design__6_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet.LoginDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet.MenuDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet.StaffDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet.LoginRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet.MenuRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet.StaffRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet.LoginRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet.MenuRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet.StaffRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSetTableAdapters.LoginTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSetTableAdapters.MenuTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSetTableAdapters.StaffTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:GroupProjectNew.RotiCafeDatabaseDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(GroupProjectNew.RotiCafeDatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:GroupProjectNew.RotiCafeDatabaseDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(GroupProjectNew.RotiCafeDatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:GroupProjectNew.RotiCafeDatabaseDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(GroupProjectNew.RotiCafeDatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:GroupProjectNew.RotiCafeDatabaseDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:GroupProjectNew.RotiCafeDatabaseDataSetTableAdapters.TableAdapterManager.UpdateAll(GroupProjectNew.RotiCafeDatabaseDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet1.MenuDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet1.MenuRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet1.MenuRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet1TableAdapters.MenuTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:GroupProjectNew.RotiCafeDatabaseDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(GroupProjectNew.RotiCafeDatabaseDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:GroupProjectNew.RotiCafeDatabaseDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(GroupProjectNew.RotiCafeDatabaseDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:GroupProjectNew.RotiCafeDatabaseDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(GroupProjectNew.RotiCafeDatabaseDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:GroupProjectNew.RotiCafeDatabaseDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:GroupProjectNew.RotiCafeDatabaseDataSet1TableAdapters.TableAdapterManager.UpdateAll(GroupProjectNew.RotiCafeDatabaseDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet2.StaffDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet2.StaffRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet2.StaffRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet2TableAdapters.StaffTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet2TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:GroupProjectNew.RotiCafeDatabaseDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(GroupProjectNew.RotiCafeDatabaseDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:GroupProjectNew.RotiCafeDatabaseDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(GroupProjectNew.RotiCafeDatabaseDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:GroupProjectNew.RotiCafeDatabaseDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(GroupProjectNew.RotiCafeDatabaseDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:GroupProjectNew.RotiCafeDatabaseDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:GroupProjectNew.RotiCafeDatabaseDataSet2TableAdapters.TableAdapterManager.UpdateAll(GroupProjectNew.RotiCafeDatabaseDataSet2)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet3">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet3.LoginDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet3.LoginRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet3.LoginRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet3TableAdapters.LoginTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet3TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:GroupProjectNew.RotiCafeDatabaseDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(GroupProjectNew.RotiCafeDatabaseDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:GroupProjectNew.RotiCafeDatabaseDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(GroupProjectNew.RotiCafeDatabaseDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:GroupProjectNew.RotiCafeDatabaseDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(GroupProjectNew.RotiCafeDatabaseDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:GroupProjectNew.RotiCafeDatabaseDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:GroupProjectNew.RotiCafeDatabaseDataSet3TableAdapters.TableAdapterManager.UpdateAll(GroupProjectNew.RotiCafeDatabaseDataSet3)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:GroupProjectNew.RotiCafeDatabaseDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

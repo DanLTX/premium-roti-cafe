@@ -1,0 +1,18 @@
+[LAST ORDER]
+Qty	Item						Price
+4	Nasi Lemak					RM 37.20
+1	Nasi Goreng					RM 8.50
+2	Laksa Penang					RM 20.60
+1	Mee Bandung					RM 10.50
+3	Air Bandung					RM 15.90
+1	Milo Dinosaur					RM 6.80
+2	Kopi Ais    					RM 9.60
+2	Ais Kacang 					RM 14.40
+2	Apam Balik					RM 12.60
+1	Pulut Hitam					RM 5.90
+2	Roti Canai					RM 8.00
+1	Roti Telur    					RM 5.20
+2	Murtabak    					RM 11.60
+SUBTOTAL: RM166.80
+TAX: RM10.01
+GRAND TOTAL: RM176.81
